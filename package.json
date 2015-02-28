@@ -1,0 +1,32 @@
+{
+  "name": "bitsie-pay",
+  "version": "1.0.0",
+  "description": "Node module for signing Bitsie Pay requests.",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "grunt test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/bitsiecom/bitsie-pay-sign"
+  },
+  "author": "Bitsie <support@bitsie.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/bitsiecom/bitsie-pay-sign/issues"
+  },
+  "homepage": "https://github.com/bitsiecom/bitsie-pay-sign",
+  "devDependencies": {
+    "expect": "^1.6.0",
+    "grunt": "^0.4.5",
+    "grunt-contrib-jshint": "^0.11.0",
+    "grunt-jasmine-node-coverage": "^0.4.1",
+    "jasmine": "^2.2.1",
+    "jasmine-core": "^2.2.0",
+    "jit-grunt": "^0.9.1"
+  },
+  "dependencies": {}
+}
