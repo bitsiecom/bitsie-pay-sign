@@ -4,6 +4,7 @@ This module allows you to create signed payment requests for [https://pay.bitsie
 
 ## Example
 
+```
 var Signature = require('bitsie-pay);
 
 var apiKey = "UWonbQFq5mp9uVycmIsQD8GL263WyBkh1dGEL2zAjj8G/gTJZTWX9obwNebV/NKfxIuys3P67YqeOJJPGv/q1A==";
@@ -24,3 +25,4 @@ var token = signature.sign(apiSecret);
 
 console.log("Form Data: ", form);
 console.log("Form Signature: " + token);
+```

@@ -1,5 +1,5 @@
 {
-  "name": "bitsie-pay",
+  "name": "bitsie-pay-sign",
   "version": "1.0.0",
   "description": "Node module for signing Bitsie Pay requests.",
   "main": "index.js",
