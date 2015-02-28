@@ -1,6 +1,6 @@
 # Bitsie Pay (Node Module)
 
-This module allows you to create signed payment requests for [https://pay.bitsie.com](Bitsie Pay).
+This module allows you to create signed payment requests for [Bitsie Pay](https://pay.bitsie.com).
 
 ## Example
 
