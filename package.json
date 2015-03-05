@@ -1,6 +1,6 @@
 {
   "name": "bitsie-pay-sign",
-  "version": "1.0.2",
+  "version": "1.0.4",
   "description": "Node module for signing Bitsie Pay requests.",
   "main": "index.js",
   "directories": {
